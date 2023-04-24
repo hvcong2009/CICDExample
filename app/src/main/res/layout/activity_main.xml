@@ -11,7 +11,7 @@
         android:textColor="@color/black"
         android:textSize="30dp"
         android:textStyle="bold"
-        android:text="CI/CD Example"
+        android:text="CI/CD Example 2"
         android:layout_centerInParent="true"/>
 
 </RelativeLayout>
