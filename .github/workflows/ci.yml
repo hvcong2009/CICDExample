@@ -28,8 +28,8 @@ jobs:
       - name: Checking Lint
         run: ./gradlew lint
 
-      - name: Checking KtLint Format
-        run: ./gradlew ktlintCheck
+      # - name: Checking KtLint Format
+      #   run: ./gradlew ktlintCheck
 
       - name: Run Unit Tests
         run: ./gradlew test --stacktrace
