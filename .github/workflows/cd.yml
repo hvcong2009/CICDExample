@@ -2,7 +2,7 @@ name: AI-Brush-CD
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   generate-and-upload-build-file:
