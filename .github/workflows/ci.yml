@@ -2,7 +2,7 @@ name: AI-Brush-CI
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
     types: [ready_for_review, opened, synchronize, reopened]
 
 jobs:
